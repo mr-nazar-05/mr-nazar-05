@@ -53,22 +53,6 @@ Backend implemented using PHP as part of academic requirements; project included
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-nazar-05&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-nazar-05&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
   
 - LinkedIn: https://www.linkedin.com/in/nazarsoudagar05  
