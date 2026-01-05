@@ -53,6 +53,13 @@ Backend implemented using PHP as part of academic requirements; project included
 
 ---
 
+# 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mr-nazar-05&theme=github-dark&hide_border=true" width="500"/>
+</p>
+
+---
+
 ## 📫 Connect With Me
   
 - LinkedIn: https://www.linkedin.com/in/nazarsoudagar05  
