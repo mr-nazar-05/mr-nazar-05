@@ -55,7 +55,7 @@ Backend implemented using PHP as part of academic requirements; project included
 
 # 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-nazar-05&theme=github-dark&hide_border=true" width="500"/>
+  <img src="https://streak-stats.demolab.com?user=pallavi-vats&theme=github-dark&hide_border=true" width="500"/>
 </p>
 
 ---
