@@ -27,7 +27,8 @@
 ### 🔹 Tools
 - Git  
 - GitHub  
-- VS Code  
+- VS Code
+- Linux Terminal
 
 ---
 
@@ -50,13 +51,6 @@ Academic project demonstrating **system design, workflow logic, and database-bac
 Backend implemented using PHP as part of academic requirements; project included for **design and workflow understanding**.
 
 🔗 https://github.com/mr-nazar-05/Marry-Online
-
----
-
-# 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pallavi-vats&theme=github-dark&hide_border=true" width="500"/>
-</p>
 
 ---
 
