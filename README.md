@@ -3,10 +3,11 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+
 - Software Developer from India 🇮🇳  
-- Strong interest in **backend development and system design**  
-- Comfortable with **Python-based projects and databases**  
+- Interested in **backend development, system design, and databases**  
+- Experience with **Python-based projects** and academic full-stack systems  
 - Exploring **machine learning and cybersecurity concepts**  
 - Open to **entry-level roles, internships, and collaborations**
 
@@ -14,19 +15,19 @@
 
 ## 🛠 Tech Stack
 
-### 🔥 Backend & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🔹 Backend & Data
+- Python  
+- MySQL  
 
-### 🎨 Frontend (Basics)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🔹 Frontend (Basics)
+- HTML  
+- CSS  
+- JavaScript  
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 🔹 Tools
+- Git  
+- GitHub  
+- VS Code  
 
 ---
 
@@ -36,20 +37,26 @@
 Machine learning–based system for detecting network intrusions using traffic data.  
 🔗 https://github.com/mr-nazar-05/Network-Intrusion-Detection
 
+---
+
 ### 🔹 Deep Fake Video Detection
-AI/ML project for detecting deep fake videos using deep learning techniques.  
-🔗 *(add your repo link here)*
+Deep learning project focused on identifying manipulated video content using neural network architectures.  
+Project implementation is not publicly hosted due to academic constraints; methodology and results can be discussed during interviews.
+
+---
 
 ### 🔹 Marry-Online
-Academic project demonstrating system design and workflow logic for an online registration system.  
-*(Backend implemented using PHP; project included for design understanding)*
+Academic project demonstrating **system design, workflow logic, and database-backed registration processes** for an online marriage registration system.  
+Backend implemented using PHP as part of academic requirements; project included for **design and workflow understanding**.
+
+🔗 https://github.com/mr-nazar-05/Marry-Online
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-nazar-05&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-nazar-05&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -57,5 +64,14 @@ Academic project demonstrating system design and workflow logic for an online re
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-nazar-05&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=mr-nazar-05&theme=dark&hide_border=true" />
 </p>
+
+---
+
+## 📫 Connect With Me
+  
+- LinkedIn: https://www.linkedin.com/in/nazarsoudagar05  
+
+---
+
